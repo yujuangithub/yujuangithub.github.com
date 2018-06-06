@@ -622,7 +622,7 @@ h2.resp-accordion {
 /*--//contact--*/
 /*--footer--*/
 .footer {
-    padding: 2em 0;
+    /*padding: 2em 0;*/
     text-align: center;
     background: #1F1F1F;
 }
